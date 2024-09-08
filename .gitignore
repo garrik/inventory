@@ -1,0 +1,5 @@
+# the executable
+inventory
+
+# core dump directories
+core*
